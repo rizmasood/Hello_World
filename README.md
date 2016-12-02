@@ -1,4 +1,4 @@
 # Hello_World
 test test
-I am Riz and I am learning about GitHub. I enjoy programming.
-(above is my change1)
+I am Riz and I found GitHub amazing.I enjoy programming and have interest in machine learning.
+
